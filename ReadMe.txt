@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
 
+I do clone and have origin and upstream for fetch and push
+
