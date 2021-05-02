@@ -14,3 +14,5 @@ It now includes steps for GitHub
 3) I do clone for origin with fetch and pull 
 and change this with "br2lr" branch
 
+I make a new branch which is called br0. and it is for test.
+
