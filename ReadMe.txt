@@ -7,6 +7,10 @@ This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
 
-I do clone1 and have origin and upstream for fetch and push
+1) I do clone1 and have origin and upstream for fetch and push
 
-I do clone2 and have origin for fetch and push
+2) I do clone2 and have origin for fetch and push
+
+3) I do clone for origin with fetch and pull 
+and change this with "br2lr" branch
+
