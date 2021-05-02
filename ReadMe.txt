@@ -9,3 +9,4 @@ It now includes steps for GitHub
 
 I do clone1 and have origin and upstream for fetch and push
 
+I do clone2 and have origin for fetch and push
